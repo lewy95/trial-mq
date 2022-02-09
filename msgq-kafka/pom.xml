@@ -9,7 +9,7 @@
     </parent>
     <artifactId>msgq-kafka</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>msgq-kafka</name>
+    <name>mq-kafka</name>
     <description>Spring Boot2.x integrated with kafka</description>
 
     <properties>
